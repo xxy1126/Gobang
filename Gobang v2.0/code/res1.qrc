@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/boyi.png</file>
+        <file>res/lightwood.jpg</file>
+        <file>res/pvc.jpg</file>
+        <file>res/pvp.jpg</file>
+        <file>res/scene.jpg</file>
+        <file>res/window.jpg</file>
+    </qresource>
+</RCC>
