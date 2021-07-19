@@ -20,3 +20,9 @@
 
 课程设计报告，以及用到的图片
 
+<img src="./项目报告/show4.png" alt="img" style="zoom:50%;" />
+
+<img src="./项目报告/show1.png" alt="img" style="zoom:50%;" />
+
+<img src="./项目报告/show3.jpg" alt="img" style="zoom:50%;" />
+
